@@ -1,0 +1,812 @@
+[
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Mühendislik",
+    "unvan": "Dr. Öğr. Üyesi",
+      "kriterler": {
+        "A1_A2": 1,
+        "A1_A4": 2,
+        "A1_A5": 1,
+        "A1_A6": 0,
+        "A1_A8": 0,
+        "baslica_yazar": 1,
+        "toplam_makale": 4,
+        "kisisel_karma_etkinlik": 0,
+        "F1_veya_F2": 1,
+        "H1_12_veya_H13_17": 1,
+        "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Mühendislik Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 7,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Mühendislik Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Fen Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 1,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Fen Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 7,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Fen Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Sağlık Bilimleri Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 1,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Sağlık Bilimleri Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 7,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Sağlık Bilimleri Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Ziraat Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 1,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Ziraat Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 7,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Ziraat Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Orman Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 1,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Orman Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 7,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Sağlık Bilimleri, Fen Bilimleri ve Matematik, Mühendislik, Ziraat, Orman ve Su Ürünleri Temel Alanı",
+    "birim": "Orman Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 3,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Eğitim Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Eğitim Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Eğitim Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Edebiyat Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Edebiyat Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Edebiyat Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Mimarlık Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Mimarlık Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Mimarlık Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "İktisadi ve İdari Bilimler Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "İktisadi ve İdari Bilimler Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "İktisadi ve İdari Bilimler Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Spor Bilimleri Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Spor Bilimleri Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Spor Bilimleri Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "İletişim Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "İletişim Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "İletişim Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Planlama Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 2,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 4,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Planlama Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Eğitim Bilimleri, Filoloji, Mimarlık, Planlama ve Tasarım, Sosyal, Beşeri ve İdari Bilimler ile Spor Bilimleri Temel Alanı",
+    "birim": "Planlama Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 4,
+      "A1_A5": 2,
+      "A1_A6": 4,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 6,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 1,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Hukuk, İlahiyat Temel Alanı",
+    "birim": "Hukuk Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 1,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 0,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Hukuk, İlahiyat Temel Alanı",
+    "birim": "Hukuk Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 1,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Hukuk, İlahiyat Temel Alanı",
+    "birim": "Hukuk Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 1,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Hukuk, İlahiyat Temel Alanı",
+    "birim": "İlahiyat Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 1,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 1,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 0,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Hukuk, İlahiyat Temel Alanı",
+    "birim": "İlahiyat Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 1,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 2,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Hukuk, İlahiyat Temel Alanı",
+    "birim": "İlahiyat Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 1,
+      "A1_A5": 1,
+      "A1_A6": 0,
+      "A1_A8": 0,
+      "baslica_yazar": 3,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 0,
+      "F1_veya_F2": 1,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 1
+    }
+  },
+  {
+    "temel_alan": "Güzel Sanatlar (Konservatuvar dahil) Temel Alanı",
+    "birim": "Güzel Sanatlar Fakültesi",
+    "unvan": "Dr. Öğr. Üyesi",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 0,
+      "A1_A5": 0,
+      "A1_A6": 0,
+      "A1_A8": 1,
+      "baslica_yazar": 1,
+      "toplam_makale": 1,
+      "kisisel_karma_etkinlik": 2,
+      "F1_veya_F2": 8,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 0
+    }
+  },
+  {
+    "temel_alan": "Güzel Sanatlar (Konservatuvar dahil) Temel Alanı",
+    "birim": "Güzel Sanatlar Fakültesi",
+    "unvan": "Doçent",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 0,
+      "A1_A5": 0,
+      "A1_A6": 0,
+      "A1_A8": 2,
+      "baslica_yazar": 2,
+      "toplam_makale": 1,
+      "kisisel_karma_etkinlik": 3,
+      "F1_veya_F2": 12,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 0
+    }
+  },
+  {
+    "temel_alan": "Güzel Sanatlar (Konservatuvar dahil) Temel Alanı",
+    "birim": "Güzel Sanatlar Fakültesi",
+    "unvan": "Profesör",
+    "kriterler": {
+      "A1_A2": 0,
+      "A1_A4": 0,
+      "A1_A5": 0,
+      "A1_A6": 0,
+      "A1_A8": 2,
+      "baslica_yazar": 3,
+      "toplam_makale": 3,
+      "kisisel_karma_etkinlik": 5,
+      "F1_veya_F2": 20,
+      "H1_12_veya_H13_17": 0,
+      "H1_12_veya_H13_22": 0
+    }
+  }
+]

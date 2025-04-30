@@ -1,0 +1,1363 @@
+[
+  {
+    "_id": "601",
+    "faaliyet_kodu": "A1",
+    "faaliyet_adi": "SCI-E, SSCI veya AHCI kapsamındaki dergilerde yayımlanmış makale (Q1)",
+    "baz_puan": 60
+  },
+  {
+    "_id": "602",
+    "faaliyet_kodu": "A2",
+    "faaliyet_adi": "SCI-E, SSCI veya AHCI kapsamındaki dergilerde yayımlanmış makale (Q2)",
+    "baz_puan": 55
+  },
+  {
+    "_id": "603",
+    "faaliyet_kodu": "A3",
+    "faaliyet_adi": "SCI-E, SSCI veya AHCI kapsamındaki dergilerde yayımlanmış makale (Q3)",
+    "baz_puan": 40
+  },
+  {
+    "_id": "604",
+    "faaliyet_kodu": "A4",
+    "faaliyet_adi": "SCI-E, SSCI veya AHCI kapsamındaki dergilerde yayımlanmış makale (Q4)",
+    "baz_puan": 30
+  },
+  {
+    "_id": "605",
+    "faaliyet_kodu": "A5",
+    "faaliyet_adi": "ESCI tarafından taranan dergilerde yayımlanmış makale",
+    "baz_puan": 25
+  },
+  {
+    "_id": "606",
+    "faaliyet_kodu": "A6",
+    "faaliyet_adi": "Scopus tarafından taranan dergilerde yayımlanmış makale",
+    "baz_puan": 20
+  },
+  {
+    "_id": "607",
+    "faaliyet_kodu": "A7",
+    "faaliyet_adi": "Uluslararası diğer indekslerde taranan dergilerde yayımlanmış makale",
+    "baz_puan": 15
+  },
+  {
+    "_id": "608",
+    "faaliyet_kodu": "A8",
+    "faaliyet_adi": "ULAKBİM TR Dizin tarafından taranan ulusal hakemli dergilerde yayımlanmış makale",
+    "baz_puan": 10
+  },
+  {
+    "_id": "609",
+    "faaliyet_kodu": "A9",
+    "faaliyet_adi": "8. madde dışındaki ulusal hakemli dergilerde yayımlanmış makale",
+    "baz_puan": 8
+  },
+  {
+    "_id": "610",
+    "faaliyet_kodu": "B1",
+    "faaliyet_adi": "Uluslararası bilimsel toplantılarda sözlü olarak sunulan, tam metni matbu veya elektronik olarak bildiri kitapçığında yayımlanmış çalışmalar",
+    "baz_puan": 8
+  },
+  {
+    "_id": "611",
+    "faaliyet_kodu": "B2",
+    "faaliyet_adi": "Uluslararası bilimsel toplantılarda sözlü olarak sunulan, özet metni matbu veya elektronik olarak bildiri kitapçığında yayımlanmış çalışmalar",
+    "baz_puan": 7},
+  {
+    "_id": "612",
+    "faaliyet_kodu": "B3",
+    "faaliyet_adi": "Uluslararası bilimsel toplantılarda poster olarak sunulan çalışmalar",
+    "baz_puan": 6
+  },
+  {
+    "_id": "613",
+    "faaliyet_kodu": "B4",
+    "faaliyet_adi": "Ulusal bilimsel toplantılarda sözlü olarak sunulan tam metni matbu veya elektronik olarak bildiri kitapçığında yayımlanmış çalışmalar",
+    "baz_puan": 7
+  },
+  {
+    "_id": "614",
+    "faaliyet_kodu": "B5",
+    "faaliyet_adi": "Ulusal bilimsel toplantılarda sözlü olarak sunulan, özet metni matbu veya elektronik olarak bildiri kitapçığında yayımlanmış çalışmalar",
+    "baz_puan": 6
+  },
+  {
+    "_id": "615",
+    "faaliyet_kodu": "B6",
+    "faaliyet_adi": "Ulusal bilimsel toplantılarda poster olarak sunulan çalışmalar",
+    "baz_puan": 5
+  },
+  {
+    "_id": "616",
+    "faaliyet_kodu": "B7",
+    "faaliyet_adi": "Uluslararası bir kongre, konferans veya sempozyumda organizasyon veya yürütme komitesinde düzenleme kurulu üyeliği veya bilim kurulu üyeliği yapmak",
+    "baz_puan": 7
+  },
+  {
+    "_id": "617",
+    "faaliyet_kodu": "B8",
+    "faaliyet_adi": "Ulusal bir kongre, konferans veya sempozyumda organizasyon veya yürütme komitesinde düzenleme kurulu üyeliği veya bilim kurulu üyeliği yapmak",
+    "baz_puan": 5
+  },
+  {
+    "_id": "618",
+    "faaliyet_kodu": "B9",
+    "faaliyet_adi": "Uluslararası konferanslarda, bilimsel toplantı, seminerlerde davetli konuşmacı olarak yer almak",
+    "baz_puan": 8
+  },
+  {
+    "_id": "619",
+    "faaliyet_kodu": "B10",
+    "faaliyet_adi": "Ulusal konferanslarda, bilimsel toplantı, seminerlerde davetli konuşmacı olarak yer almak",
+    "baz_puan": 6
+  },
+  {
+    "_id": "620",
+    "faaliyet_kodu": "B11",
+    "faaliyet_adi": "Uluslararası veya ulusal çeşitli kurumlarla işbirliği içinde atölye, çalıştay, yaz okulu organize ederek gerçekleştirmek",
+    "baz_puan": 6
+  },
+  {
+    "_id": "621",
+    "faaliyet_kodu": "B12",
+    "faaliyet_adi": "Uluslararası veya ulusal çeşitli kurumlarla işbirliği içinde atölye, çalıştay, panel, seminer, yaz okulunda konuşmacı veya panelist olarak görev almak",
+    "baz_puan": 5
+  },
+  {
+    "_id": "622",
+    "faaliyet_kodu": "C1",
+    "faaliyet_adi": "Uluslararası yayınevleri tarafından yayımlanmış özgün kitap",
+    "baz_puan": 60
+  },
+  {
+    "_id": "623",
+    "faaliyet_kodu": "C2",
+    "faaliyet_adi": "Uluslararası yayınevleri tarafından yayımlanmış özgün kitap editörlüğü, bölüm yazarlığı (Her bir kitap için maksimum 2 bölüm yazarlığı)",
+    "baz_puan": 20
+  },
+  {
+    "_id": "624",
+    "faaliyet_kodu": "C3",
+    "faaliyet_adi": "Uluslararası yayımlanan ansiklopedi konusu/maddesi (en fazla 3 madde)",
+    "baz_puan": 5
+  },
+  {
+    "_id": "625",
+    "faaliyet_kodu": "C4",
+    "faaliyet_adi": "Ulusal yayınevleri tarafından yayımlanmış özgün kitap",
+    "baz_puan": 40
+  },
+  {
+    "_id": "626",
+    "faaliyet_kodu": "C5",
+    "faaliyet_adi": "Ulusal yayınevleri tarafından yayımlanmış özgün kitap editörlüğü, bölüm yazarlığı (Her bir kitap için maksimum 2 bölüm yazarlığı)",
+    "baz_puan": 10
+  },
+  {
+    "_id": "627",
+    "faaliyet_kodu": "C6",
+    "faaliyet_adi": "Tam kitap çevirisi (Yayınevleri için ilgili ÜAK kriterleri geçerlidir)",
+    "baz_puan": 15
+  },
+  {
+    "_id": "628",
+    "faaliyet_kodu": "C7",
+    "faaliyet_adi": "Çeviri kitap editörlüğü, kitap bölümü çevirisi (Yayınevleri için ilgili ÜAK kriterleri geçerlidir) (Her bir kitap için maksimum 2 bölüm çevirisi)",
+    "baz_puan": 6
+  },
+  {
+    "_id": "629",
+    "faaliyet_kodu": "C8",
+    "faaliyet_adi": "Alanında ulusal yayımlanan ansiklopedi konusu/maddesi (en fazla 3 madde)",
+    "baz_puan": 3
+  },
+  {
+  "_id": "630",
+  "faaliyet_kodu": "D1",
+  "faaliyet_adi": "SCI-E, SSCI ve AHCI tarafından taranan dergilerde; Uluslararası yayınevleri tarafından yayımlanmış kitaplarda yayımlanan ve adayın yazar olarak yer almadığı yayınlardan atıf",
+  "baz_puan": 4
+  },
+  {
+  "_id": "631",
+  "faaliyet_kodu": "D2",
+  "faaliyet_adi": "E-SCI tarafından taranan dergilerde ve adayın yazar olarak yer almadığı yayınlardan atıf",
+  "baz_puan": 3
+  },
+  {
+  "_id": "632",
+  "faaliyet_kodu": "D3",
+  "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI dışındaki diğer uluslararası indeksler tarafından taranan dergilerde ve adayın yazar olarak yer almadığı yayınlardan atıf",
+  "baz_puan": 2
+  },
+  {
+  "_id": "633",
+  "faaliyet_kodu": "D4",
+  "faaliyet_adi": "Ulusal hakemli dergilerde ve adayın yazar olarak yer almadığı yayınlardan atıf",
+  "baz_puan": 1
+  },
+  {
+  "_id": "634",
+  "faaliyet_kodu": "D5",
+  "faaliyet_adi": "Güzel sanatlardaki eserlerin uluslararası kaynak veya yayın organlarında yer alması veya gösterime ya da dinletime girmesi",
+  "baz_puan": 3
+  },
+  {
+  "_id": "635",
+  "faaliyet_kodu": "D6",
+  "faaliyet_adi": "Güzel sanatlardaki eserlerin ulusal kaynak veya yayın organlarında yer alması veya gösterime ya da dinletime girmesi",
+  "baz_puan": 1
+  },
+  {
+    "_id": "636",
+    "faaliyet_kodu": "E1",
+    "faaliyet_adi": "Önlisans/lisans dersleri",
+    "baz_puan": 2
+  },
+  {
+    "_id": "637",
+    "faaliyet_kodu": "E2",
+    "faaliyet_adi": "Önlisans/lisans dersleri (Yabancı dilde)",
+    "baz_puan": 3
+  },
+  {
+    "_id": "638",
+    "faaliyet_kodu": "E3",
+    "faaliyet_adi": "Lisansüstü dersleri",
+    "baz_puan": 3
+  },
+  {
+    "_id": "639",
+    "faaliyet_kodu": "E4",
+    "faaliyet_adi": "Lisansüstü dersleri (Yabancı dilde)",
+    "baz_puan": 4
+  },
+  {
+    "_id": "640",
+    "faaliyet_kodu": "F1",
+    "faaliyet_adi": "Doktora/Sanatta Yeterlik veya Tıp/Diş Hekimliğinde Uzmanlık Tez Yönetimi",
+    "baz_puan": 40
+  },
+  {
+    "_id": "641",
+    "faaliyet_kodu": "F2",
+    "faaliyet_adi": "Yüksek Lisans Tez Yönetimi",
+    "baz_puan": 15
+  },
+  {
+    "_id": "642",
+    "faaliyet_kodu": "F3",
+    "faaliyet_adi": "Doktora/Sanatta Yeterlik (Eş Danışman)",
+    "baz_puan": 9
+  },
+  {
+    "_id": "643",
+    "faaliyet_kodu": "F4",
+    "faaliyet_adi": "Yüksek Lisans/Sanatta Yeterlik Tez Yönetimi (Eş Danışman)",
+    "baz_puan": 4
+  },
+  {
+    "_id": "644",
+    "faaliyet_kodu": "G1",
+    "faaliyet_adi": "Lisanslanan Uluslararası Patent",
+    "baz_puan": 120
+  },
+  {
+    "_id": "645",
+    "faaliyet_kodu": "G2",
+    "faaliyet_adi": "Tescillenmiş Uluslararası Patent",
+    "baz_puan": 100
+  },
+  {
+    "_id": "646",
+    "faaliyet_kodu": "G3",
+    "faaliyet_adi": "Uluslararası Patent Başvurusu",
+    "baz_puan": 50
+  },
+  {
+    "_id": "647",
+    "faaliyet_kodu": "G4",
+    "faaliyet_adi": "Lisanslanan Ulusal Patent",
+    "baz_puan": 80
+  },
+  {
+    "_id": "648",
+    "faaliyet_kodu": "G5",
+    "faaliyet_adi": "Tescillenmiş Ulusal Patent",
+    "baz_puan": 60
+  },
+  {
+    "_id": "649",
+    "faaliyet_kodu": "G6",
+    "faaliyet_adi": "Ulusal Patent Başvurusu",
+    "baz_puan": 30
+  },
+  {
+    "_id": "650",
+    "faaliyet_kodu": "G7",
+    "faaliyet_adi": "Lisanslanan Faydalı Model, Endüstriyel Tasarım, Marka",
+    "baz_puan": 20
+  },
+  {
+    "_id": "651",
+    "faaliyet_kodu": "G8",
+    "faaliyet_adi": "Faydalı Model ve Endüstriyel Tasarım",
+    "baz_puan": 15
+  },
+  {
+    "_id": "652",
+    "faaliyet_kodu": "H1",
+    "faaliyet_adi": "AB çerçeve programı/NSF/ERC bilimsel araştırma projesinde koordinatör/alt koordinatör olmak",
+    "baz_puan": 250
+  },
+  {
+    "_id": "653",
+    "faaliyet_kodu": "H2",
+    "faaliyet_adi": "AB çerçeve programı/NSF/ERC bilimsel araştırma projesinde yürütücü olmak",
+    "baz_puan": 150
+  },
+  {
+    "_id": "654",
+    "faaliyet_kodu": "H3",
+    "faaliyet_adi": "AB çerçeve programı/NSF/ERC bilimsel araştırma projesinde araştırmacı olmak",
+    "baz_puan": 100
+  },
+  {
+    "_id": "655",
+    "faaliyet_kodu": "H4",
+    "faaliyet_adi": "AB Çerçeve Programı/NSF/ERC dışındaki uluslararası destekli bilimsel projelerde koordinatör/alt koordinatör olmak",
+    "baz_puan": 150
+  },
+  {
+    "_id": "656",
+    "faaliyet_kodu": "H5",
+    "faaliyet_adi": "AB Çerçeve Programı/NSF/ERC dışındaki uluslararası destekli bilimsel projelerde yürütücü olmak",
+    "baz_puan": 120
+  },
+  {
+    "_id": "657",
+    "faaliyet_kodu": "H6",
+    "faaliyet_adi": "AB Çerçeve Programı/NSF/ERC dışındaki uluslararası destekli bilimsel projelerde araştırmacı olmak",
+    "baz_puan": 70
+  },
+  {
+    "_id": "658",
+    "faaliyet_kodu": "H7",
+    "faaliyet_adi": "AB Çerçeve Programı/NSF/ERC dışındaki uluslararası destekli bilimsel projelerde danışman olmak",
+    "baz_puan": 30
+  },
+  {
+    "_id": "659",
+    "faaliyet_kodu": "H8",
+    "faaliyet_adi": "TÜBİTAK ARGE (ARDEB, TEYDEB) ve TÜSEB projelerinde yürütücü olmak",
+    "baz_puan": 100
+  },
+  {
+    "_id": "660",
+    "faaliyet_kodu": "H9",
+    "faaliyet_adi": "Diğer TÜBİTAK veya Kalkınma Ajansları projelerinde yürütücü olmak",
+    "baz_puan": 50
+  },
+  {
+    "_id": "661",
+    "faaliyet_kodu": "H10",
+    "faaliyet_adi": "TÜBİTAK dışındaki kamu kurumlarıyla yapılan bilimsel araştırma projelerinde yürütücü olmak",
+    "baz_puan": 40
+  },
+  {
+    "_id": "662",
+    "faaliyet_kodu": "H11",
+    "faaliyet_adi": "Sanayi kuruluşları ile yapılan Ar-Ge projelerinde yürütücü olmak",
+    "baz_puan": 40
+  },
+  {
+    "_id": "663",
+    "faaliyet_kodu": "H12",
+    "faaliyet_adi": "Diğer özel kuruluşlar ile yapılan Ar-Ge projelerinde yürütücü olmak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "664",
+    "faaliyet_kodu": "H13",
+    "faaliyet_adi": "TÜBİTAK ARGE (ARDEB, TEYDEB) ve TÜSEB projelerinde araştırmacı olmak",
+    "baz_puan": 50
+  },
+  {
+    "_id": "665",
+    "faaliyet_kodu": "H14",
+    "faaliyet_adi": "Diğer TÜBİTAK veya Kalkınma Ajansları projelerinde araştırmacı olmak",
+    "baz_puan": 25
+  },
+  {
+    "_id": "666",
+    "faaliyet_kodu": "H15",
+    "faaliyet_adi": "TÜBİTAK dışındaki kamu kurumlarıyla yapılan bilimsel araştırma projelerinde araştırmacı olmak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "667",
+    "faaliyet_kodu": "H16",
+    "faaliyet_adi": "Sanayi kuruluşları ile yapılan bilimsel araştırma projelerinde araştırmacı olmak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "668",
+    "faaliyet_kodu": "H17",
+    "faaliyet_adi": "Diğer özel kuruluşlar ile yapılan bilimsel araştırma projelerinde araştırmacı olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "669",
+    "faaliyet_kodu": "H18",
+    "faaliyet_adi": "TÜBİTAK ARGE (ARDEB, TEYDEB) ve TÜSEB projelerinde danışman olmak",
+    "baz_puan": 25
+  },
+  {
+    "_id": "670",
+    "faaliyet_kodu": "H19",
+    "faaliyet_adi": "Diğer TÜBİTAK projelerinde danışman olmak",
+    "baz_puan": 12
+  },
+  {
+    "_id": "671",
+    "faaliyet_kodu": "H20",
+    "faaliyet_adi": "TÜBİTAK dışındaki kamu kurumlarıyla yapılan bilimsel araştırma projelerinde danışman olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "672",
+    "faaliyet_kodu": "H21",
+    "faaliyet_adi": "Sanayi kuruluşları ile yapılan Ar-Ge projelerinde danışman olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "673",
+    "faaliyet_kodu": "H22",
+    "faaliyet_adi": "Diğer özel kuruluşlar ile yapılan Ar-Ge projelerinde danışman olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "674",
+    "faaliyet_kodu": "H23",
+    "faaliyet_adi": "Üniversitelerin bilimsel araştırma projeleri (BAP) yürütücülüğü (Hızlı destek, altyapı vb. hariç)",
+    "baz_puan": 8
+  },
+  {
+    "_id": "675",
+    "faaliyet_kodu": "H24",
+    "faaliyet_adi": "Üniversitelerin bilimsel araştırma projeleri (BAP) araştırmacılığı (Hızlı destek, altyapı vb. hariç)",
+    "baz_puan": 6
+  },
+  {
+    "_id": "676",
+    "faaliyet_kodu": "H25",
+    "faaliyet_adi": "Üniversitelerin bilimsel araştırma projeleri (BAP) danışmanlığı (Hızlı destek, altyapı vb. hariç)",
+    "baz_puan": 3
+  },
+  {
+    "_id": "677",
+    "faaliyet_kodu": "H26",
+    "faaliyet_adi": "En az dört aylık yurtdışı araştırma çalışmasında bulunmak",
+    "baz_puan": 100
+  },
+  {
+    "_id": "678",
+    "faaliyet_kodu": "H27",
+    "faaliyet_adi": "En az dört aylık yurtiçi araştırma çalışmasında bulunmak (kurum dışında)",
+    "baz_puan": 50
+  },
+  {
+    "_id": "679",
+    "faaliyet_kodu": "H28",
+    "faaliyet_adi": "TÜBİTAK 2209-A, 2209-B, 2242 projelerinde danışman olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "680",
+    "faaliyet_kodu": "I1",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI veya SCOPUS kapsamındaki dergilerde baş editörlük görevinde bulunmak",
+    "baz_puan": 100
+  },
+  {
+    "_id": "681",
+    "faaliyet_kodu": "I2",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI veya SCOPUS kapsamındaki dergilerde alan/yardımcı/ortak/asistan editörlük görevinde bulunmak",
+    "baz_puan": 70
+  },
+  {
+    "_id": "682",
+    "faaliyet_kodu": "I3",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI veya SCOPUS kapsamındaki dergilerde misafir/davetli editörlük görevinde bulunmak",
+    "baz_puan": 50
+  },
+  {
+    "_id": "683",
+    "faaliyet_kodu": "I4",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI veya SCOPUS kapsamındaki dergilerde yayın kurulu üyeliği",
+    "baz_puan": 40
+  },
+  {
+    "_id": "684",
+    "faaliyet_kodu": "I5",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI kapsamı dışındaki diğer uluslararası indekslerde baş editörlük yapmak",
+    "baz_puan": 40
+  },
+  {
+    "_id": "685",
+    "faaliyet_kodu": "I6",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI kapsamı dışındaki diğer uluslararası indekslerde alan/yardımcı editörlük yapmak",
+    "baz_puan": 30
+  },
+  {
+    "_id": "686",
+    "faaliyet_kodu": "I7",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI kapsamı dışındaki diğer uluslararası indekslerde misafir editörlük yapmak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "687",
+    "faaliyet_kodu": "I8",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI, E-SCI kapsamı dışındaki diğer uluslararası indekslerde yayın kurulu üyeliği",
+    "baz_puan": 10
+  },
+  {
+    "_id": "688",
+    "faaliyet_kodu": "I9",
+    "faaliyet_adi": "ULAKBİM tarafından taranan dergilerde baş editörlük görevi",
+    "baz_puan": 15
+  },
+  {
+    "_id": "689",
+    "faaliyet_kodu": "I10",
+    "faaliyet_adi": "ULAKBİM tarafından taranan dergilerde yayın kurulu üyeliği veya alan/yardımcı editörlük",
+    "baz_puan": 5
+  },
+  {
+    "_id": "690",
+    "faaliyet_kodu": "I11",
+    "faaliyet_adi": "SCI-E, SSCI veya AHCI kapsamındaki dergilerde tamamlanmış hakemlik faaliyeti (her bir hakemlik faaliyeti başına)",
+    "baz_puan": 3
+  },
+  {
+    "_id": "691",
+    "faaliyet_kodu": "I12",
+    "faaliyet_adi": "SCI-E, SSCI, AHCI kapsamı dışındaki diğer uluslararası indekslerde tamamlanmış hakemlik faaliyeti (her bir hakemlik faaliyeti başına)",
+    "baz_puan": 2
+  },
+  {
+    "_id": "692",
+    "faaliyet_kodu": "I13",
+    "faaliyet_adi": "ULAKBİM tarafından taranan dergilerde hakemlik faaliyeti (her bir hakemlik faaliyeti başına)",
+    "baz_puan": 1
+  },
+  {
+    "_id": "693",
+    "faaliyet_kodu": "J1",
+    "faaliyet_adi": "Sürekli ve periyodik olarak jürili uluslararası kurum veya kuruluşlar tarafından verilen bilim ve sanat ödülleri",
+    "baz_puan": 150
+  },
+  {
+    "_id": "694",
+    "faaliyet_kodu": "J2",
+    "faaliyet_adi": "TÜBİTAK tarafından verilen Bilim, Özel ve Hizmet Ödülleri",
+    "baz_puan": 100
+  },
+  {
+    "_id": "695",
+    "faaliyet_kodu": "J3",
+    "faaliyet_adi": "TÜBA tarafından verilen Akademi Ödülleri",
+    "baz_puan": 100
+  },
+  {
+    "_id": "696",
+    "faaliyet_kodu": "J4",
+    "faaliyet_adi": "TÜBİTAK tarafından verilen Teşvik Ödülü (Yayın teşvik ödülü hariç)",
+    "baz_puan": 80
+  },
+  {
+    "_id": "697",
+    "faaliyet_kodu": "J5",
+    "faaliyet_adi": "TÜBA tarafından verilen GEBİP ve TESEP ödülleri",
+    "baz_puan": 80
+  },
+  {
+    "_id": "698",
+    "faaliyet_kodu": "J6",
+    "faaliyet_adi": "Sürekli ve periyodik olarak verilen ve bir jüri değerlendirmesine tabi olmayan uluslararası/ulusal ödüller",
+    "baz_puan": 20
+  },
+  {
+    "_id": "699",
+    "faaliyet_kodu": "J7",
+    "faaliyet_adi": "Uluslararası hakemli yarışmalarda birincilik derecesi",
+    "baz_puan": 20
+  },
+  {
+    "_id": "700",
+    "faaliyet_kodu": "J8",
+    "faaliyet_adi": "Uluslararası hakemli yarışmalarda ikincilik derecesi",
+    "baz_puan": 10
+  },
+  {
+    "_id": "701",
+    "faaliyet_kodu": "J9",
+    "faaliyet_adi": "Uluslararası hakemli yarışmalarda üçüncülük derecesi",
+    "baz_puan": 5
+  },
+  {
+    "_id": "702",
+    "faaliyet_kodu": "J10",
+    "faaliyet_adi": "Ulusal hakemli yarışmalarda birincilik derecesi",
+    "baz_puan": 10
+  },
+  {
+    "_id": "703",
+    "faaliyet_kodu": "J11",
+    "faaliyet_adi": "Ulusal hakemli yarışmalarda ikincilik derecesi",
+    "baz_puan": 5
+  },
+  {
+    "_id": "704",
+    "faaliyet_kodu": "J12",
+    "faaliyet_adi": "Ulusal hakemli yarışmalarda üçüncülük derecesi",
+    "baz_puan": 3
+  },
+  {
+    "_id": "705",
+    "faaliyet_kodu": "J13",
+    "faaliyet_adi": "Uluslararası bilimsel toplantılarda alınan ödüller",
+    "baz_puan": 5
+  },
+  {
+    "_id": "706",
+    "faaliyet_kodu": "J14",
+    "faaliyet_adi": "Ulusal bilimsel toplantılarda alınan ödüller",
+    "baz_puan": 3
+  },
+  {
+    "_id": "707",
+    "faaliyet_kodu": "J15",
+    "faaliyet_adi": "Sanat, tasarım ve mimarlık alanlarında Uluslararası hakemli/jürili yarışmalarda alınan ödüller",
+    "baz_puan": 20
+  },
+  {
+    "_id": "708",
+    "faaliyet_kodu": "J16",
+    "faaliyet_adi": "Sanat, tasarım ve mimarlık alanlarında Ulusal hakemli/jürili yarışmalarda alınan ödüller",
+    "baz_puan": 10
+  },
+  {
+    "_id": "709",
+    "faaliyet_kodu": "J17",
+    "faaliyet_adi": "Üniversite kurumsal ödülleri (üniversite genelinde ilgili alanda makale, patent, proje, vb. dereceye girenler)",
+    "baz_puan": 10
+  },
+  {
+    "_id": "710",
+    "faaliyet_kodu": "J18",
+    "faaliyet_adi": "Kitap veya makale gibi bilimsel eserlere atfedilen ödüller",
+    "baz_puan": 5
+  },
+  {
+    "_id": "711",
+    "faaliyet_kodu": "K1",
+    "faaliyet_adi": "Dekan/Enstitü/Yüksekokul/MYO/Merkez Müdürü",
+    "baz_puan": 15
+  },
+  {
+    "_id": "712",
+    "faaliyet_kodu": "K2",
+    "faaliyet_adi": "Enstitü Müdür Yrd. / Dekan Yrd. / Yüksekokul Müdür Yrd. / MYO Müdür Yrd. / Merkez Müdürü Yrd./Bölüm Başkanı",
+    "baz_puan": 12
+  },
+  {
+    "_id": "713",
+    "faaliyet_kodu": "K3",
+    "faaliyet_adi": "Bölüm Başkan Yrd. / Anabilim Dalı Başkanı",
+    "baz_puan": 10
+  },
+  {
+    "_id": "714",
+    "faaliyet_kodu": "K4",
+    "faaliyet_adi": "Rektörlükçe görevlendirilen Koordinatörlük",
+    "baz_puan": 8
+  },
+  {
+    "_id": "715",
+    "faaliyet_kodu": "K5",
+    "faaliyet_adi": "Rektörlükçe görevlendirilen Koordinatör Yardımcıları",
+    "baz_puan": 7
+  },
+  {
+    "_id": "716",
+    "faaliyet_kodu": "K6",
+    "faaliyet_adi": "Rektörlükçe görevlendirilen üniversite düzeyinde Komisyon/Kurul üyelikleri",
+    "baz_puan": 6
+  },
+  {
+    "_id": "717",
+    "faaliyet_kodu": "K7",
+    "faaliyet_adi": "Dekanlık/Y.O. Müdürlüğü/MYO Müdürlüğü/Konservatuvar Müdürlüğü tarafından görevlendirilen Komisyon/Kurul üyelikleri",
+    "baz_puan": 5
+  },
+  {
+    "_id": "718",
+    "faaliyet_kodu": "K8",
+    "faaliyet_adi": "Bölüm Başkanlıkları tarafından görevlendirilen Komisyon/Kurul üyelikleri",
+    "baz_puan": 4
+  },
+  {
+    "_id": "719",
+    "faaliyet_kodu": "K9",
+    "faaliyet_adi": "Rektörlük/Dekanlık/Y.O. Müdürlüğü/MYO Müdürlüğü/Konservatuvar Müdürlüğü/Bölüm Başkanlığı görevlendirmeleriyle kurum içi ve dışı eğitim, işbirliği vb. konularda katkı sağlamak",
+    "baz_puan": 3
+  },
+  {
+    "_id": "720",
+    "faaliyet_kodu": "K10",
+    "faaliyet_adi": "Uluslararası nitelikteki bilimsel ve mesleki kurum/kuruluşların yönetimlerinde, kurullarında, komisyon veya komitelerinde görev almak",
+    "baz_puan": 5
+  },
+  {
+    "_id": "721",
+    "faaliyet_kodu": "K11",
+    "faaliyet_adi": "Ulusal nitelikteki bilimsel ve mesleki kurum/kuruluşların yönetimlerinde, kurullarında, komisyon veya komitelerinde görev almak",
+    "baz_puan": 4
+  },
+  {
+    "_id": "722",
+    "faaliyet_kodu": "K12",
+    "faaliyet_adi": "Yerel nitelikteki bilimsel ve mesleki kurum/kuruluşların yönetimlerinde, kurullarında, komisyon veya komitelerinde görev almak",
+    "baz_puan": 3
+  },
+  {
+    "_id": "723",
+    "faaliyet_kodu": "L1",
+    "faaliyet_adi": "Özgün sanat eserlerinin, tasarım veya yorum çalışmalarının yurt dışında sanat, eğitim ve kültür kurumlarınca satın alınması veya telif ödenmesi",
+    "baz_puan": 40
+  },
+  {
+    "_id": "724",
+    "faaliyet_kodu": "L2",
+    "faaliyet_adi": "Özgün sanat eserlerinin, tasarım veya yorum çalışmalarının yurt içinde sanat, eğitim ve kültür kurumlarınca satın alınması veya telif ödenmesi",
+    "baz_puan": 25
+  },
+  {
+    "_id": "725",
+    "faaliyet_kodu": "L3",
+    "faaliyet_adi": "Yerel Yönetimler veya Özel Kuruluşların desteklediği kamusal alanda kalıcı olarak gerçekleştirilen sanat projeleri",
+    "baz_puan": 40
+  },
+  {
+    "_id": "726",
+    "faaliyet_kodu": "L4",
+    "faaliyet_adi": "Galerilerde, müzelerde, sanat ve kültür merkezlerinde gerçekleştirilen Küratörlük etkinlikleri",
+    "baz_puan": 10
+  },
+  {
+    "_id": "727",
+    "faaliyet_kodu": "L5",
+    "faaliyet_adi": "Özgün sanat eserleri, tasarımlar ya da yorum/icra çalışmalarıyla yurtdışında uluslararası jürili kişisel etkinlikte yer almak",
+    "baz_puan": 25
+  },
+  {
+    "_id": "728",
+    "faaliyet_kodu": "L6",
+    "faaliyet_adi": "Özgün sanat eserleri, tasarımlar ya da yorum/icra çalışmalarıyla yurtiçinde jürili kişisel etkinlikte yer almak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "729",
+    "faaliyet_kodu": "L7",
+    "faaliyet_adi": "Özgün sanat eserleri, tasarımlar ya da yorum/icra çalışmalarıyla yurtdışında uluslararası jürili karma etkinlikte yer almak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "730",
+    "faaliyet_kodu": "L8",
+    "faaliyet_adi": "Özgün sanat eserleri, tasarımlar ya da yorum/icra çalışmalarıyla yurtiçinde ulusal jürili karma etkinlikte yer almak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "731",
+    "faaliyet_kodu": "L9",
+    "faaliyet_adi": "Uluslararası çalıştay/workshop vb. etkinliklerde yöneticilik veya yürütücülük yapmak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "732",
+    "faaliyet_kodu": "L10",
+    "faaliyet_adi": "Ulusal çalıştay/workshop vb. etkinliklerde yöneticilik veya yürütücülük yapmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "733",
+    "faaliyet_kodu": "L11",
+    "faaliyet_adi": "Uluslararası çalıştay/workshop vb. etkinliklerde araştırmacılık veya kurul üyeliği",
+    "baz_puan": 10
+  },
+  {
+    "_id": "734",
+    "faaliyet_kodu": "L12",
+    "faaliyet_adi": "Ulusal çalıştay/workshop vb. etkinliklerde araştırmacılık veya kurul üyeliği",
+    "baz_puan": 6
+  },
+  {
+    "_id": "735",
+    "faaliyet_kodu": "L13",
+    "faaliyet_adi": "Uluslararası yarışmalarda/festivallerde/şenliklerde jüri üyeliği",
+    "baz_puan": 6
+  },
+  {
+    "_id": "736",
+    "faaliyet_kodu": "L14",
+    "faaliyet_adi": "Ulusal yarışmalarda/festivallerde/şenliklerde jüri üyeliği",
+    "baz_puan": 4
+  },
+  {
+    "_id": "737",
+    "faaliyet_kodu": "L15",
+    "faaliyet_adi": "Üretilen eserlerin uluslararası haber veya yayın organlarında yer alması",
+    "baz_puan": 2
+  },
+  {
+    "_id": "738",
+    "faaliyet_kodu": "L16",
+    "faaliyet_adi": "Üretilen eserlerin ulusal haber veya yayın organlarında yer alması",
+    "baz_puan": 2
+  },
+  {
+    "_id": "739",
+    "faaliyet_kodu": "L17",
+    "faaliyet_adi": "Uluslararası resital icra etmek",
+    "baz_puan": 40
+  },
+  {
+    "_id": "740",
+    "faaliyet_kodu": "L18",
+    "faaliyet_adi": "Uluslararası konserlerde solist icracı olarak yer almak",
+    "baz_puan": 35
+  },
+  {
+    "_id": "741",
+    "faaliyet_kodu": "L19",
+    "faaliyet_adi": "Uluslararası konserlerde karma icracı olarak yer almak",
+    "baz_puan": 27
+  },
+  {
+    "_id": "742",
+    "faaliyet_kodu": "L20",
+    "faaliyet_adi": "Uluslararası konserlerde orkestra/koro şefi olarak yer almak",
+    "baz_puan": 40
+  },
+  {
+    "_id": "743",
+    "faaliyet_kodu": "L21",
+    "faaliyet_adi": "Uluslararası oda müziği konserinde icracı olarak yer almak",
+    "baz_puan": 30
+  },
+  {
+    "_id": "744",
+    "faaliyet_kodu": "L22",
+    "faaliyet_adi": "Uluslararası orkestra konserinde grup şefi olarak yer almak",
+    "baz_puan": 20
+  },
+  {
+    "_id": "745",
+    "faaliyet_kodu": "L23",
+    "faaliyet_adi": "Uluslararası orkestra konserinde grup üyesi olarak yer almak",
+    "baz_puan": 18
+  },
+  {
+    "_id": "746",
+    "faaliyet_kodu": "L24",
+    "faaliyet_adi": "Uluslararası resital veya koro konserinde eşlikçi olarak yer almak",
+    "baz_puan": 23
+  },
+  {
+    "_id": "747",
+    "faaliyet_kodu": "L25",
+    "faaliyet_adi": "Uluslararası konserlerde konser yönetmenliği veya dinleti koordinatörlüğü",
+    "baz_puan": 15
+  },
+  {
+    "_id": "748",
+    "faaliyet_kodu": "L26",
+    "faaliyet_adi": "Ulusal resital icra etmek",
+    "baz_puan": 35
+  },
+  {
+    "_id": "749",
+    "faaliyet_kodu": "L27",
+    "faaliyet_adi": "Ulusal konserlerde bireysel dinletide bulunmak",
+    "baz_puan": 30
+  },
+  {
+    "_id": "750",
+    "faaliyet_kodu": "L28",
+    "faaliyet_adi": "Ulusal konserlerde karma dinletide bulunmak",
+    "baz_puan": 23
+  },
+  {
+    "_id": "751",
+    "faaliyet_kodu": "L29",
+    "faaliyet_adi": "Ulusal konserlerde orkestra/koro şefi olarak yer almak",
+    "baz_puan": 30
+  },
+  {
+    "_id": "752",
+    "faaliyet_kodu": "L30",
+    "faaliyet_adi": "Ulusal oda müziği konserinde icracı olarak yer almak",
+    "baz_puan": 23
+  },
+  {
+    "_id": "753",
+    "faaliyet_kodu": "L31",
+    "faaliyet_adi": "Ulusal orkestra konserinde grup şefi olarak yer almak",
+    "baz_puan": 15
+  },
+  {
+    "_id": "754",
+    "faaliyet_kodu": "L32",
+    "faaliyet_adi": "Ulusal orkestra konserinde grup üyesi olarak yer almak",
+    "baz_puan": 13
+  },
+  {
+    "_id": "755",
+    "faaliyet_kodu": "L33",
+    "faaliyet_adi": "Ulusal resital veya koro konserinde eşlikçi olarak yer almak",
+    "baz_puan": 18
+  },
+  {
+    "_id": "756",
+    "faaliyet_kodu": "L34",
+    "faaliyet_adi": "Ulusal konserlerde konser yönetmenliği veya dinleti koordinatörlüğü",
+    "baz_puan": 10
+  },
+  {
+    "_id": "757",
+    "faaliyet_kodu": "L35",
+    "faaliyet_adi": "Uluslararası sesli ve görsel etkinlikler ve sesli yayınlar, bireysel ses yayını",
+    "baz_puan": 45
+  },
+  {
+    "_id": "758",
+    "faaliyet_kodu": "L36",
+    "faaliyet_adi": "Uluslararası sesli ve görsel etkinlikler ve sesli yayınlar, karma ses yayını",
+    "baz_puan": 35
+  },
+  {
+    "_id": "759",
+    "faaliyet_kodu": "L37",
+    "faaliyet_adi": "Uluslararası sesli ve görsel etkinliklerde Genel Sanat Yönetmeni/Müzik Yönetmeni olmak",
+    "baz_puan": 30
+  },
+  {
+    "_id": "760",
+    "faaliyet_kodu": "L38",
+    "faaliyet_adi": "Uluslararası radyo ve TV etkinliklerinde program hazırlamak",
+    "baz_puan": 15
+  },
+  {
+    "_id": "761",
+    "faaliyet_kodu": "L39",
+    "faaliyet_adi": "Uluslararası radyo ve TV etkinliklerinde bireysel katılımcı olmak",
+    "baz_puan": 13
+  },
+  {
+    "_id": "762",
+    "faaliyet_kodu": "L40",
+    "faaliyet_adi": "Uluslararası radyo ve TV etkinliklerinde karma katılımcı olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "763",
+    "faaliyet_kodu": "L41",
+    "faaliyet_adi": "Ulusal sesli ve görsel etkinlikler ve sesli yayınlar, bireysel ses yayını",
+    "baz_puan": 40
+  },
+  {
+    "_id": "764",
+    "faaliyet_kodu": "L42",
+    "faaliyet_adi": "Ulusal sesli ve görsel etkinlikler ve sesli yayınlar, karma ses yayını",
+    "baz_puan": 30
+  },
+  {
+    "_id": "765",
+    "faaliyet_kodu": "L43",
+    "faaliyet_adi": "Ulusal etkinliklerde Genel Sanat Yönetmeni/Müzik Yönetmeni olmak",
+    "baz_puan": 25
+  },
+  {
+    "_id": "766",
+    "faaliyet_kodu": "L44",
+    "faaliyet_adi": "Ulusal radyo ve TV etkinliklerinde program hazırlamak",
+    "baz_puan": 13
+  },
+  {
+    "_id": "767",
+    "faaliyet_kodu": "L45",
+    "faaliyet_adi": "Ulusal radyo ve TV etkinliklerinde bireysel katılımcı olmak",
+    "baz_puan": 10
+  },
+  {
+    "_id": "768",
+    "faaliyet_kodu": "L46",
+    "faaliyet_adi": "Ulusal radyo ve TV etkinliklerinde karma katılımcı olmak",
+    "baz_puan": 8
+  },
+  {
+    "_id": "769",
+    "faaliyet_kodu": "L47",
+    "faaliyet_adi": "Ulusal orkestra için 0–5 dakikalık eser bestelemek",
+    "baz_puan": 30
+  },
+  {
+    "_id": "770",
+    "faaliyet_kodu": "L48",
+    "faaliyet_adi": "Ulusal orkestra için 5–10 dakikalık eser bestelemek",
+    "baz_puan": 35
+  },
+  {
+    "_id": "771",
+    "faaliyet_kodu": "L49",
+    "faaliyet_adi": "Ulusal orkestra için 10–15 dakikalık eser bestelemek",
+    "baz_puan": 40
+  },
+  {
+    "_id": "772",
+    "faaliyet_kodu": "L50",
+    "faaliyet_adi": "Ulusal orkestra için 15+ dakikalık eser bestelemek",
+    "baz_puan": 45
+  },
+  {
+    "_id": "773",
+    "faaliyet_kodu": "L51",
+    "faaliyet_adi": "Ulusal oda müziği için 0–5 dakikalık eser bestelemek",
+    "baz_puan": 28
+  },
+  {
+    "_id": "774",
+    "faaliyet_kodu": "L52",
+    "faaliyet_adi": "Ulusal oda müziği için 5–10 dakikalık eser bestelemek",
+    "baz_puan": 33
+  },
+  {
+    "_id": "775",
+    "faaliyet_kodu": "L53",
+    "faaliyet_adi": "Ulusal oda müziği için 10–15 dakikalık eser bestelemek",
+    "baz_puan": 38
+  },
+  {
+    "_id": "776",
+    "faaliyet_kodu": "L54",
+    "faaliyet_adi": "Ulusal oda müziği için 15+ dakikalık eser bestelemek",
+    "baz_puan": 43
+  },
+  {
+    "_id": "777",
+    "faaliyet_kodu": "L55",
+    "faaliyet_adi": "Ulusal elektronik müzik için 0–5 dakikalık eser bestelemek",
+    "baz_puan": 25
+  },
+  {
+    "_id": "778",
+    "faaliyet_kodu": "L56",
+    "faaliyet_adi": "Ulusal elektronik müzik için 5–10 dakikalık eser bestelemek",
+    "baz_puan": 30
+  },
+  {
+    "_id": "779",
+    "faaliyet_kodu": "L57",
+    "faaliyet_adi": "Ulusal elektronik müzik için 10–15 dakikalık eser bestelemek",
+    "baz_puan": 35
+  },
+  {
+    "_id": "780",
+    "faaliyet_kodu": "L58",
+    "faaliyet_adi": "Ulusal elektronik müzik için 15+ dakikalık eser bestelemek",
+    "baz_puan": 40
+  },
+  {
+    "_id": "781",
+    "faaliyet_kodu": "L59",
+    "faaliyet_adi": "Uluslararası orkestra için 0–5 dakikalık eser bestelemek",
+    "baz_puan": 35
+  },
+  {
+    "_id": "782",
+    "faaliyet_kodu": "L60",
+    "faaliyet_adi": "Uluslararası orkestra için 5–10 dakikalık eser bestelemek",
+    "baz_puan": 40
+  },
+  {
+    "_id": "783",
+    "faaliyet_kodu": "L61",
+    "faaliyet_adi": "Uluslararası orkestra için 10–15 dakikalık eser bestelemek",
+    "baz_puan": 45
+  },
+  {
+    "_id": "784",
+    "faaliyet_kodu": "L62",
+    "faaliyet_adi": "Uluslararası orkestra için 15+ dakikalık eser bestelemek",
+    "baz_puan": 50
+  },
+  {
+    "_id": "785",
+    "faaliyet_kodu": "L63",
+    "faaliyet_adi": "Uluslararası oda müziği için 0–5 dakikalık eser bestelemek",
+    "baz_puan": 33
+  },
+  {
+    "_id": "786",
+    "faaliyet_kodu": "L64",
+    "faaliyet_adi": "Uluslararası oda müziği için 5–10 dakikalık eser bestelemek",
+    "baz_puan": 38
+  },
+  {
+    "_id": "787",
+    "faaliyet_kodu": "L65",
+    "faaliyet_adi": "Uluslararası oda müziği için 10–15 dakikalık eser bestelemek",
+    "baz_puan": 43
+  },
+  {
+    "_id": "788",
+    "faaliyet_kodu": "L66",
+    "faaliyet_adi": "Uluslararası oda müziği için 15+ dakikalık eser bestelemek",
+    "baz_puan": 48
+  },
+  {
+    "_id": "789",
+    "faaliyet_kodu": "L67",
+    "faaliyet_adi": "Uluslararası elektronik müzik için 0–5 dakikalık eser bestelemek",
+    "baz_puan": 30
+  },
+  {
+    "_id": "790",
+    "faaliyet_kodu": "L68",
+    "faaliyet_adi": "Uluslararası elektronik müzik için 5–10 dakikalık eser bestelemek",
+    "baz_puan": 35
+  },
+  {
+    "_id": "791",
+    "faaliyet_kodu": "L69",
+    "faaliyet_adi": "Uluslararası elektronik müzik için 10–15 dakikalık eser bestelemek",
+    "baz_puan": 40
+  },
+  {
+    "_id": "792",
+    "faaliyet_kodu": "L70",
+    "faaliyet_adi": "Uluslararası elektronik müzik için 15+ dakikalık eser bestelemek",
+    "baz_puan": 45
+  },
+  {
+    "_id": "793",
+    "faaliyet_kodu": "L71",
+    "faaliyet_adi": "Türk Müziği makamlarıyla geleneksel formlarda kompozisyon bestelemek",
+    "baz_puan": 35
+  },
+  {
+    "_id": "794",
+    "faaliyet_kodu": "L72",
+    "faaliyet_adi": "Türk Müziği makamlarıyla ulusal ses yayını yapmak",
+    "baz_puan": 40
+  },
+  {
+    "_id": "795",
+    "faaliyet_kodu": "L73",
+    "faaliyet_adi": "Türk Müziği makamlarıyla uluslararası ses yayını yapmak",
+    "baz_puan": 45
+  },
+  {
+    "_id": "796",
+    "faaliyet_kodu": "L74",
+    "faaliyet_adi": "Türk Halk Müziği derlemesi yapmak (TRT onaylı)",
+    "baz_puan": 45
+  },
+  {
+    "_id": "797",
+    "faaliyet_kodu": "L75",
+    "faaliyet_adi": "Türk Halk Müziği derlemesi yapmak (Nota ile belgelenmiş)",
+    "baz_puan": 40
+  },
+  {
+    "_id": "798",
+    "faaliyet_kodu": "L76",
+    "faaliyet_adi": "Türk Halk Müziği eserini notaya almak (TRT onaylı)",
+    "baz_puan": 15
+  },
+  {
+    "_id": "799",
+    "faaliyet_kodu": "L77",
+    "faaliyet_adi": "Sahne oyunu veya film yönetmenliği (uzun prodüksiyon)",
+    "baz_puan": 18
+  },
+  {
+    "_id": "800",
+    "faaliyet_kodu": "L78",
+    "faaliyet_adi": "Sahne oyunu veya film yönetmenliği (kısa prodüksiyon)",
+    "baz_puan": 7
+  },
+  {
+    "_id": "801",
+    "faaliyet_kodu": "L79",
+    "faaliyet_adi": "Sahne oyunu veya film senaryosu yazmak",
+    "baz_puan": 18
+  },
+  {
+    "_id": "802",
+    "faaliyet_kodu": "L80",
+    "faaliyet_adi": "Kısa sahne oyunu ve senaryo yazarlığı",
+    "baz_puan": 7
+  },
+  {
+    "_id": "803",
+    "faaliyet_kodu": "L81",
+    "faaliyet_adi": "Uyarlama oyun/senaryo yazmak, metin düzenlemek (uzun)",
+    "baz_puan": 10
+  },
+  {
+    "_id": "804",
+    "faaliyet_kodu": "L82",
+    "faaliyet_adi": "Uyarlama oyun/senaryo yazmak, metin düzenlemek (kısa)",
+    "baz_puan": 5
+  },
+  {
+    "_id": "805",
+    "faaliyet_kodu": "L83",
+    "faaliyet_adi": "Uzun oyun/senaryo/dizi drama dramaturjisi yapmak",
+    "baz_puan": 18
+  },
+  {
+    "_id": "806",
+    "faaliyet_kodu": "L84",
+    "faaliyet_adi": "Kısa oyun/senaryo dramaturjisi yapmak",
+    "baz_puan": 7
+  },
+  {
+    "_id": "807",
+    "faaliyet_kodu": "L85",
+    "faaliyet_adi": "Uzun oyun/senaryo/dizi drama metni çevirmek",
+    "baz_puan": 10
+  },
+  {
+    "_id": "808",
+    "faaliyet_kodu": "L86",
+    "faaliyet_adi": "Kısa oyun/senaryo metni çevirmek",
+    "baz_puan": 3
+  },
+  {
+    "_id": "809",
+    "faaliyet_kodu": "L87",
+    "faaliyet_adi": "Uzun oyunda/sinema filminde/dizi dramada başrol",
+    "baz_puan": 18
+  },
+  {
+    "_id": "810",
+    "faaliyet_kodu": "L88",
+    "faaliyet_adi": "Uzun oyunda/sinema filminde/dizi dramada diğer roller",
+    "baz_puan": 10
+  },
+  {
+    "_id": "811",
+    "faaliyet_kodu": "L89",
+    "faaliyet_adi": "Kısa oyun/filmde başrol",
+    "baz_puan": 7
+  },
+  {
+    "_id": "812",
+    "faaliyet_kodu": "L90",
+    "faaliyet_adi": "Kısa oyun/filmde diğer roller",
+    "baz_puan": 3
+  },
+  {
+    "_id": "813",
+    "faaliyet_kodu": "L91",
+    "faaliyet_adi": "Uzun oyun/sinema/dizi drama dekor, kostüm, ışık, ses, efekt tasarımı",
+    "baz_puan": 18
+  },
+  {
+    "_id": "814",
+    "faaliyet_kodu": "L92",
+    "faaliyet_adi": "Uzun oyun/sinema/dizi drama dekor, kostüm, ışık, ses, efekt ekibinde görev almak",
+    "baz_puan": 7
+  },
+  {
+    "_id": "815",
+    "faaliyet_kodu": "L93",
+    "faaliyet_adi": "Kısa oyun/film dekor, kostüm, ışık, ses, efekt tasarımı",
+    "baz_puan": 7
+  },
+  {
+    "_id": "816",
+    "faaliyet_kodu": "L94",
+    "faaliyet_adi": "Kısa oyun/film dekor, kostüm, ışık, ses, efekt ekibinde görev almak",
+    "baz_puan": 3
+  },
+  {
+    "_id": "817",
+    "faaliyet_kodu": "L95",
+    "faaliyet_adi": "Uzun sahne oyunu/film/dizi dramada makyaj, mask, kukla, butafor tasarımı",
+    "baz_puan": 15
+  },
+  {
+    "_id": "818",
+    "faaliyet_kodu": "L96",
+    "faaliyet_adi": "Uzun sahne oyunu/film/dizi dramada makyaj, mask, kukla, butafor ekibinde görev almak",
+    "baz_puan": 5
+  },
+  {
+    "_id": "819",
+    "faaliyet_kodu": "L97",
+    "faaliyet_adi": "Kısa sahne oyunu/filmde makyaj, mask, kukla, butafor tasarımı",
+    "baz_puan": 7
+  },
+  {
+    "_id": "820",
+    "faaliyet_kodu": "L98",
+    "faaliyet_adi": "Kısa sahne oyunu/filmde makyaj, mask, kukla, butafor ekibinde görev almak",
+    "baz_puan": 3
+  },
+  {
+    "_id": "821",
+    "faaliyet_kodu": "L99",
+    "faaliyet_adi": "Sanat yönetmenliği (uzun prodüksiyonlar)",
+    "baz_puan": 18
+  },
+  {
+    "_id": "822",
+    "faaliyet_kodu": "L100",
+    "faaliyet_adi": "Sanat yönetmenliği (kısa prodüksiyonlar)",
+    "baz_puan": 7
+  },
+  {
+    "_id": "823",
+    "faaliyet_kodu": "L101",
+    "faaliyet_adi": "Koreografi, dramatizasyon, dinleti, performans, happening, workshop düzenleme/yönetme",
+    "baz_puan": 10
+  },
+  {
+    "_id": "824",
+    "faaliyet_kodu": "L102",
+    "faaliyet_adi": "Kongre, sempozyum, festival etkinliklerinde atölye çalışması düzenlemek",
+    "baz_puan": 7
+  },
+  {
+    "_id": "825",
+    "faaliyet_kodu": "L103",
+    "faaliyet_adi": "Yapıtın festival, şenlik vb. etkinliklere katılımı",
+    "baz_puan": 15
+  },
+  {
+    "_id": "826",
+    "faaliyet_kodu": "L104",
+    "faaliyet_adi": "Eserin kamu/özel TV/dijital platformlarda yayınlanması veya büyük tiyatrolara alınması",
+    "baz_puan": 18
+  },
+  {
+    "_id": "827",
+    "faaliyet_kodu": "L105",
+    "faaliyet_adi": "En az 10 kere gerçekleştirilmiş sanatsal yarışma/ödül organizasyonu tarafından ödüllendirilmek",
+    "baz_puan": 18
+  }
+]
